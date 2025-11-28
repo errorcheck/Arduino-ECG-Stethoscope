@@ -1,41 +1,29 @@
-# Prerequisites
+# Arduino IDE (que genera al compilar)
+*.elf
+*.hex
+*.eep
+*.bin
+*.o
 *.d
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+# Carpetas temporales de Arduino IDE
+.build/
+.cache/
+.arduino/
+Arduino/
 
-# Precompiled Headers
-*.gch
-*.pch
+# Videos pesados 
+*.mp4
+*.mov
+*.avi
+*.mkv
 
-# Linker files
-*.ilk
+# Basura del sistema
+.DS_Store
+Thumbs.db
+__MACOSX/
+*.tmp
 
-# Debugger Files
-*.pdb
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
-
-# debug information files
-*.dwo
+# Archivos de backup del editor
+*~
+*.bak
