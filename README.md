@@ -1,4 +1,4 @@
-🫀 Arduino Biorobot + ECG + Arrhythmias (Live Demo) (Cardiobot)
+🫀 Arduino Biorobot + ECG + Arrhythmias (Live Demo) "Cardiobot" (formerly Arduino ECG))
 
 🔴 LED beats like a human heart
 📈 Real-time ECG displayed on screen
