@@ -1,5 +1,8 @@
 🫀 Arduino Biorobot + ECG + Arrhythmias (Live Demo) "Cardiobot" (formerly Arduino ECG))
 
+Educational Impact
+Hands-on Arduino + C++ applied to healthcare, low-cost functional biobot construction, introduction to educational robotics, and development of technical judgment: systems thinking over hardware dependency. Integrated with Human-in-the-Loop and applied ethics.
+
 🔴 LED beats like a human heart
 📈 Real-time ECG displayed on screen
 🎛️ Turn the potentiometer → generates arrhythmias
